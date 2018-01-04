@@ -1,0 +1,6 @@
+a=complex(2,3)
+b=complex(3,4)
+print("additon of two numbers is",(a+b))
+print("additon of two numbers is",(a-b))
+print("additon of two numbers is",(a*b))
+print("additon of two numbers is",(a/b))
